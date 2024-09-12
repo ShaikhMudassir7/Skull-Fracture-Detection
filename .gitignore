@@ -1,0 +1,8 @@
+.vscode
+.ipynb_checkpoints
+NiftiFiles
+Scan
+Slices
+Labels
+D:\CQ500\ConvOuch-master\ConvOuch-master\vgg16_model.h5
+*.swp

@@ -1,0 +1,26 @@
+# Core libraries
+numpy
+pandas
+matplotlib
+scikit-learn
+
+# Image processing libraries
+pydicom
+nibabel
+
+# Deep learning frameworks
+tensorflow # or you can specify tensorflow-gpu if using GPU acceleration
+keras
+
+# Jupyter notebook support
+jupyterlab
+ipykernel
+
+# Miscellaneous utilities
+scipy
+opencv-python
+seaborn
+
+# Specific dependencies for handling DICOM images (if required)
+pydicom
+SimpleITK
